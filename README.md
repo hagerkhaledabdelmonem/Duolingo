@@ -3,13 +3,10 @@ An application that helps in learning +35 languages through quick, bite-sized le
 
 **Applying Some Diagrams:**
 - Use Case Diagram
-
 - Data Flow Diagrams
   - Context Diagram
   - Level 0 Diagram
-  - Level 1 Diagram
-  
+  - Level 1 Diagram 
 - Class Diagram
-
 - 2 Sequence Diagrams for 2 Processes
 
