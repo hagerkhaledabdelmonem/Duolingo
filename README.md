@@ -10,6 +10,7 @@ An application that helps in learning +35 languages through quick, bite-sized le
 - Class Diagram
 - 2 Sequence Diagrams for 2 Processes
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Use Case Diagram
 
