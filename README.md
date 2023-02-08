@@ -12,26 +12,33 @@ An application that helps in learning +35 languages through quick, bite-sized le
 
 
 Use Case Diagram
+
 ![Use Case](https://user-images.githubusercontent.com/92521186/217662784-f2c84203-c98f-4dba-8c95-6839e0a46445.png)
 
 Data Flow Diagrams:
 - Context Diagram
+
   ![Context](https://user-images.githubusercontent.com/92521186/217662942-13cff358-c536-4eb6-9343-f81885aed558.png)
 
 - Level 0 Diagram
+
   ![Level 0](https://user-images.githubusercontent.com/92521186/217663045-2c320655-5fc8-48dd-8ccc-a25d8041ed2e.png)
 
 - Level 1 Diagram for Process Practice Skills
+
   ![Level 1](https://user-images.githubusercontent.com/92521186/217664177-bf3fbf45-fe81-4bf5-993b-1f9c97ff3368.png)
   
-Class Diagram   
+Class Diagram 
+
   ![EntityClass](https://user-images.githubusercontent.com/92521186/217664327-74bce5b2-3558-40f1-883a-772665920abf.png)
   
 Sequence Diagrams :
 - For Process Choose Language
+
   ![Sequence1](https://user-images.githubusercontent.com/92521186/217664526-0e52f1c0-3f34-4847-b2e1-e1f988016a15.png)
   
 - For Process Practice Skills
+
   ![Sequence2](https://user-images.githubusercontent.com/92521186/217664691-f8e79bcf-d472-41ba-9ba6-78d3ef5be781.png)
 
 
